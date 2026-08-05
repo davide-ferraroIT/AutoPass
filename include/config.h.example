@@ -1,0 +1,12 @@
+#ifndef CONFIG_H_EXAMPLE
+#define CONFIG_H_EXAMPLE
+
+// Rinominare questo file in config.h (o includere nel proprio src/config.h)
+// e inserire le credenziali della propria rete Wi-Fi.
+// Nota: config.h è inserito in .gitignore per prevenire il caricamento di dati sensibili su GitHub.
+
+#define WIFI_SSID "YOUR_WIFI_SSID"
+#define WIFI_PASS "YOUR_WIFI_PASSWORD"
+#define TARGET_UUID "YOUR_TARGET_UUID"
+
+#endif // CONFIG_H_EXAMPLE
