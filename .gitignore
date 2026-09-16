@@ -1,5 +1,7 @@
 # PlatformIO
 .pio
+
+# IDE
 .vscode/
 .vscode/*
 
