@@ -1,4 +1,4 @@
-# BeconTrigger (AutoPass System)
+# AutoPass
 
 An enterprise-grade, ESP32-based access control system utilizing Bluetooth Low Energy (BLE) iBeacons and cloud integration. Designed for resilience, this project features hardware watchdog timers, automated Wi-Fi reconnections, and OTA (Over-The-Air) updates.
 
